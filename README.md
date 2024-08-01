@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="![naver_boostcourse](https://github.com/user-attachments/assets/6510a691-eb84-4824-b2f5-a8bc00b12f3c)">
+    <img src="https://github.com/user-attachments/assets/6510a691-eb84-4824-b2f5-a8bc00b12f3c">
 </p>
 
 # [코칭스터디] Data Science 2024
