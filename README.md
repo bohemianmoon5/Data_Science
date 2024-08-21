@@ -18,11 +18,11 @@
     - 미션
 
 ## - 3주차
-- 건강검진 데이터를 활용
-- 결측치, 요약, 추출, 전처리
-- 시각화 및 가설검증
-- 퀴즈
-- 미션
+    - 건강검진 데이터를 활용
+    - 결측치, 요약, 추출, 전처리
+    - 시각화 및 가설검증
+    - 퀴즈
+    - 미션
 
 <p align="right">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
