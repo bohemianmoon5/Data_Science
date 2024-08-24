@@ -24,6 +24,13 @@
     - 퀴즈
     - 미션
 
+## - 4주차
+    - K-beauty 온라인 판매 데이터를 활용
+    - 가설세우기, 데이터로드, 전처리
+    - 상품군별, 지역별 판매액 시각화
+    - 퀴즈
+    - 미션
+
 <p align="right">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
